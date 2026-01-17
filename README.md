@@ -1,6 +1,6 @@
 # Website
 
-The repo for my website.
+The repo for my website. Inspired by [this post from Louie Mantia Jr.](https://lmnt.me/blog/how-to-make-a-damn-website.html) after too many attempts at getting bogged down in static site generators before losing interest.
 
 ## Usage
 
