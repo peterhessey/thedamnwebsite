@@ -4,8 +4,8 @@ The repo for my website. Inspired by [this post from Louie Mantia Jr.](https://l
 
 ## Usage
 
-[Install `pandoc`](https://pandoc.org/installing.html) and convert posts from `md` to `html` with:
+Write posts in `md` and convert posts from `md` to `html` with:
 
 ```shell
-for f in md/*.md; do pandoc "$f" -o "html/$(basename "${f%.md}").html"; done
+for f in posts/md/*.md; do pandoc "$f" -s --css ../../dark-mode.css -o "posts/html/$(basename "${f%.md}").html"; done
 ```
