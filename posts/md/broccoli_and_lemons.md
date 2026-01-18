@@ -1,5 +1,6 @@
 ---
-title: Brocoli and Lemons
+title: Broccoli and Lemons
+date: 18-01-2025
 ---
 
 Today I made Jess Elliot Dennison's Broccoli, Parmesan and Lemon Orecchiette pasta for the third time. Two portions of this dish contains an entire head of broccoli, which is an insane quantity of broccoli to eat in a single setting: more than I would usually eat in a week!
