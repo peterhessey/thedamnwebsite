@@ -10,7 +10,7 @@ I received the book as a Christmas present from my partner and have been cooking
 
 Each recipe has given me a new appreciation for certain ingredients that I either hadn't used before or had been neglecting with my ignorance until then. For example, **lemons** crop up in the large majority of the book's savoury recipes, to the point where I was finding it ridiculous on my first skim read: how good can sour, seed-filled lemons really be? Surely not so good that you'd put them in basically *all* of your food? Little did smug past-me know how much life a sprinkle of zest and a splash of lemon juice can bring to a dish! After trying a variety of Jess' recipes, my passion for lemons has now escalated to the point where I have now purchased a microplane specifically to maximise my per-lemon zest yield and I get nervous if I have fewer than 4 lemons in the house.
 
-![lemon-killer](../../imgs/microplane.jpg)
+![My new lemon killer](../../imgs/microplane.jpg)
 
 Another example of an ingredient that this book has converted me on is broccoli. Under normal circumstances, if you were to ask me if I wanted to an entire head of broccoli for dinner, regardless of what it was accompanied with, I would likely politely decline and make subtle but concerned inquiries as to your mental health. However, after a few attempts at her broccoli pasta dish, Ms Dennison has me converted into a full-blown broccoli bandit boiling multiple heads of the green stuff into saucy submission on a rainy Sunday night!
 
