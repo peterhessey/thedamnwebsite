@@ -7,5 +7,5 @@ The repo for my website. Inspired by [this post from Louie Mantia Jr.](https://l
 Write posts in `md` and convert posts from `md` to `html` with:
 
 ```shell
-for f in posts/md/*.md; do pandoc "$f" -s --css ../../dark-mode.css -o "posts/html/$(basename "${f%.md}").html"; done
+for f in posts/md/*.md; do pandoc "$f" -s --css ../../style.css -o "posts/html/$(basename "${f%.md}").html"; done
 ```
